@@ -1,0 +1,5 @@
+记录自己阅读 scikit-learn 的 logs。
+
+因为想要对数据进行预测，而不是满足于使用 Pandas、Matplotlib、Seaborn等做历史数据分析，因此决定开始学习 scikit-learn。
+
+原链接：https://github.com/donnemartin/data-science-ipython-notebooks。
